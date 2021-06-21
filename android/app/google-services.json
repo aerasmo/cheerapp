@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135788209589",
+    "project_id": "cheer-app-9d5d0",
+    "storage_bucket": "cheer-app-9d5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135788209589:android:f01bb21435c2c136b2e5fc",
+        "android_client_info": {
+          "package_name": "com.example.ejjcheerapp2332"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135788209589-17h7ffqkcosc7bd6atskvpuvaoqakm72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzTGM9jTGzM2JgeO6KFMQQ6jgu6R_6WNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135788209589-17h7ffqkcosc7bd6atskvpuvaoqakm72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
